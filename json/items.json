@@ -1,26 +1,26 @@
 [
     {
         "name": "Week 1",
-        "description": "In Week 1 I we got into our teams and started brainstorming about what we want create and how it relates to the challenge statement that we chose, Smart Solutions For Digital Inclusion",
+        "description": "In Week 1, we got into our teams and started brainstorming about what we want create and how it relates to the challenge statement that we chose, Smart Solutions For Digital Inclusion",
         "image": "images/image1.jpg"
        
 	},
     {
         "name": "Week 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "description": "",
+        "image": "images/image1.jpg"
+        
 	},
     {
         "name": "Week 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "description": "",
+        "image": "images/image1.jpg"
+        
 	},
     {
         "name": "Week 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "description": "",
+        "image": "images/image1.jpg"
+        
 	}
 ]
